@@ -10,3 +10,4 @@ You can enable GTK themes only for some applications: launch them in this way: `
 ![](http://i.imgur.com/TGX3LCv.png)
 
 In these screenshots I'm on debian testing, KDE Plasma 5.8.2, KDE Frameworks 5.27.0 using Arc Dark as desktop theme. The UI font is Helvetica Neue. The Sublime Text 3 theme is Boxy.
+[Here](https://www.reddit.com/r/unixporn/comments/5c0p8c/kde_ive_made_a_gtk2_theme_to_have_a_uniform/)'s the reddit thread on /r/unixporn with more details.
